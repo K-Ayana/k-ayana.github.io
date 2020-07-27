@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    font-family: serif;
+    color: rgb(95, 56, 12);
+}
+
+body{
+    background-attachment: fixed;
+    background-image: linear-gradient(60deg, #fdff8e 0%, #fda3d8 100%); 
+}
+
+
+#a-top{
+    height: 70vh;
+    background-image: url(img/1.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+#b-top{
+    height: 70vh;
+    background-image: url(img/2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#c-top{
+    height: 70vh;
+    background-image: url(img/3.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#d-top{
+    height: 70vh;
+    background-image: url(img/4.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#e-top{
+    height: 70vh;
+    background-image: url(img/5.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#f-top{
+    height: 70vh;
+    background-image: url(img/6.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.setumei{
+    padding: 10px 150px;
+    font-size: 20px;
+    font-size: 2vmin;
+}
+
+.setumei h1{
+    font-size: 40px;
+    font-size: 5vmin;
+}
+
+footer a{
+    margin-top: 1000px;
+    padding-left: 100px;
+    bottom: 0px;
+    text-decoration-line: none;
+    color: rgb(0, 17, 255);
+    
+}
+
+footer a:hover{
+    color: rgb(255, 0, 200);
+}
